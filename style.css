@@ -1,0 +1,35 @@
+body{
+    height: 100vh;
+    background-image: url("https://res.cloudinary.com/hello-tickets/image/upload/c_limit,f_auto,q_auto,w_1300/v1614767633/pvfb3onplmpofni1wapy.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Ubuntu', sans-serif;
+}
+.Frase{color: rgb(16, 5, 66);
+    margin: 5px;
+    margin-left: 500px;
+    margin-bottom: 20px;
+    padding: 5px;
+    padding
+}
+.motivacao{ apaga tudo???
+margin-left: 500px;
+
+}
+.vamo{
+    margin-left: 500px;     
+}
+.foto{
+    margin-left: 500px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    
+}
+li{
+    color: rgb(119, 179, 8);
+    margin-left: 500px;
+    background-color: white;
+    background;
+}
